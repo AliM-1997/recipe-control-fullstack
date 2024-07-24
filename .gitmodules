@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/AliM-1997/recipe_control_frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/AliM-1997/recipes-control-backend.git
